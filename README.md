@@ -11,7 +11,7 @@ A cross platform tool to create strong password by user defined information, cre
 | linux   | yes        |  no         |
 
 
-https://github.com/sherry0429/StrongPwd/tree/main/videos/strong_pwd_intro.mp4
+![](https://github.com/sherry0429/StrongPwd/tree/main/videos/strong_pwd_intro.mp4)
 
 ## Why to use it
 
