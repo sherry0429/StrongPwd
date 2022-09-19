@@ -11,6 +11,10 @@ A cross platform tool to create strong password by user defined information, cre
 | linux   | yes        |  no         |
 
 
+<video width="auto" height="auto" controls>
+    <source src="videos/strong_pwd_intro.mp4" type="video/mp4">
+</video>
+
 ## Why to use it
 
 Sometime i have to process two questions below:
