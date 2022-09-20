@@ -64,7 +64,9 @@ This info just to make you know, which item in list is password you need copied.
 5. __If pin code file be deleted, all data will be removed.__[you could use this to reset pin if you forget, but data can not be recover.]
 6. Password only created when click, and it at least include upper / lower letters and special signs.
 
-## data saved dir
+## Data saved dir
+
+__this will changed in next version__
 
 file_lists:
 1. content.txt
@@ -89,7 +91,7 @@ file_lists:
 5. __Don't use this on other people's device!__
 
 
-## end
+## End
 
 this software is free, if it help you, please give me your stars. thanks.
 
