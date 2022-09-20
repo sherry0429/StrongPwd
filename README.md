@@ -22,7 +22,7 @@ __otherwise they could delete pin file, backup other file and restart program, a
 this security issues will be solved on next release.
 
 
-![intro](/videos/strong_pwd_intro.mp4)
+![intro](/videos/strong_pwd_intro.gif)
 
 ## Why to use it
 
