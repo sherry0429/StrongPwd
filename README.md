@@ -10,8 +10,19 @@ A cross platform tool to create strong password by user defined information, cre
 | os_x   | yes        |  no         |
 | linux   | yes        |  no         |
 
+## Warning
 
-![myvideo](/videos/strong_pwd_intro.mp4)
+$${\color{red}Don't \space use \space it \space on \space other \space people \space computers !}$$
+
+$${\color{red}Don't \space let \space anyone \space know \space your \space computers' unlock password}$$
+
+__otherwise they could delete pin file, backup other file and restart program, across pin verify see your all password.__
+
+
+this security issues will be solved on next release.
+
+
+![intro](/videos/strong_pwd_intro.mp4)
 
 ## Why to use it
 
