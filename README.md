@@ -27,8 +27,10 @@ this security issues will be solved on next release.
 ## Why to use it
 
 Sometime i have to process two questions below:
+
     1. Account must be change password every 3 or 6 months.
     2. I need to register a new account to avoid likes recommendations
+    
 Everytime i changed or create new __safe__ password, it's make my mind like a storm.
 
 If you have same question like me, this tool maybe help you.
