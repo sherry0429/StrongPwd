@@ -189,8 +189,7 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                           };
                         } else {
                           verify = true;
-                          controller.pin = currentText;
-                          controller.pinSave();
+                          controller.pinSave(currentText);
                         }
                         if (verify == true){
                           setState(
